@@ -13,7 +13,6 @@
 - 💼 **19 months of experience** as a Full Stack Web Developer
 - 🌐 Experience in **product-based & SaaS-style applications**
 - 🧠 Strong problem-solving mindset and eager to learn new technologies
-- ⏰ Comfortable working **remotely (2–4 hrs daily, 8 PM – 12 AM)**
 
 ---
 
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ### 🗄 Databases
@@ -47,7 +45,6 @@
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
@@ -78,7 +75,7 @@
   <a href="mailto:dubeyaryan630@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/aryan468">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
